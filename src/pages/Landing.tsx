@@ -83,8 +83,7 @@ export default function Landing() {
             transition={{ delay: 0.12 }}
             className="mt-6 max-w-xl text-lg text-secondary"
           >
-            Technology moves faster than any feed you can keep up with. North reads the firehose
-            for you and tells engineers exactly what to learn next — and why.
+            Technology moves faster than any feed you can keep up with. North helps engineers discover what’s worth learning next — and why.
           </motion.p>
           <motion.div
             variants={fadeUp}
