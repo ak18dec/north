@@ -33,7 +33,19 @@ North helps answer:
 
 ## Demo
 
-Coming soon.
+**Live:** https://ak18dec.github.io/north/
+
+### Landing
+
+![Landing page — North](public/screenshots/landing.png)
+
+### Feed
+
+![Recommendation feed](public/screenshots/feed.png)
+
+### Article Detail
+
+![Article detail view](public/screenshots/article.png)
 
 ---
 
